@@ -1,0 +1,5 @@
+/*!
+ * Browser Logos
+ * https://iconduck.com/sets/browser-logos
+ * Released under the MIT License
+ */

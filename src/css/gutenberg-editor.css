@@ -1,0 +1,8 @@
+a[data-linkcentral-id-sync] {
+    text-decoration: none !important;
+    border-bottom: 2px solid;
+    border-image: linear-gradient(to right, #12668A, #68C8CB) 1;
+    display: inline-block;
+    padding-bottom: 0;
+    line-height: 1;
+}

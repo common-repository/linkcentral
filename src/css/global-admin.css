@@ -1,0 +1,39 @@
+a.linkcentral-premium-tag {
+    background-color: #D7AE61;
+    color: #000 !important;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-left: 5px;
+    vertical-align: middle;
+    text-decoration:none;
+}
+
+/* Freemius notices */
+.fs-notice.fs-slug-linkcentral{
+    max-width:960px;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #292929;
+    padding: 6px;
+}
+
+.fs-notice.fs-slug-linkcentral .fs-close{
+    color:#292929;
+    margin-top:8px;
+}
+
+.fs-notice.fs-slug-linkcentral .fs-plugin-title{
+    display:none;
+}
+
+.fs-notice.fs-slug-linkcentral .fs-notice-body::before{
+    content:url('../images/linkcentral-logo.svg');
+    position:relative;
+    display:inline-block;
+    width:30px;
+    height:auto;
+    margin-right:10px;
+    vertical-align: -50%;
+}
